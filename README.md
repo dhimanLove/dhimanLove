@@ -6,10 +6,10 @@ A passionate **B-Tech CSE student** and **GDSC Volunteer** at **Maharishi Markan
 
 🌱 **Currently Learning**: Artificial Intelligence (AI) / Machine Learning (ML)
 
-🚀 **I specialize in**: Web Development, Python Programming, and Front-End Development
+🚀 **I specialize in**: Flutter and Web Development.
 
 🖥 **Tech Stack**:
-- **Languages**: Python, JavaScript, HTML, CSS, C, Dart
+- **Languages**: Python, JavaScript, HTML, CSS, C, Dart, Embedded C
 - **Frameworks**: Angular, React, Unity
 - **Tools**: Git, Arduino, VS Code
 
