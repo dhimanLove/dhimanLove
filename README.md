@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Loveraj
 
-A passionate **B-Tech CSE student** and **GDSC Volunteer** at **Maharishi Markandeshwar University**, Haryana 🇮🇳
+A passionate **B-Tech CSE student** and **GDG Core Developer** at **Maharishi Markandeshwar University**, Haryana 🇮🇳
 
 ---
 
-🌱 **Currently Learning**: Artificial Intelligence (AI) / Machine Learning (ML)
+🌱 **Currently Learning**: Web Development and Agentic AI
 
 🚀 **I specialize in**: Flutter and Web Development.
 
@@ -24,8 +24,8 @@ I'm an enthusiastic and driven Computer Science and Engineering student with a s
 - **Web Development**: HTML5, CSS3, JavaScript, Angular, React
 - **Programming**: Python, C, Dart
 - **Tools & Technologies**: Git, GitHub, Arduino, Unity, VS Code
-- **Frameworks**: Django, Flask (Python), Firebase, Angular
-- **Other Skills**: Blender (3D Modeling), Canva (Design), Numpy (Data Science), Flutter (Mobile Development), Three.js (3D Web Development)
+- **Frameworks**: React , Angular 
+- **Other Skills**: Blender (3D Modeling), Canva (Design), Numpy (Data Science), Flutter (Mobile Development)
 
 ---
 
