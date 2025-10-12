@@ -51,7 +51,7 @@ I'm an enthusiastic and driven Computer Science and Engineering student with a s
 ---
 
 ### 💬 **How to Reach Me**:
-- 📧 **Email**: [rajdjiman00143@gmail.com](mailto:rajdjiman00143@gmail.com)
+- 📧 **Email**: [rajdjiman00143@gmail.com](mailto:rajdhiman00143@gmail.com)
 - 💼 **LinkedIn**: [Loveraj LinkedIn](https://www.linkedin.com/in/loveraj-dhiman)
 - 🐦 **Twitter**: [@dhimanlove](https://twitter.com/dhimanlove)
 
