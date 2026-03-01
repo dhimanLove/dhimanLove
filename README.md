@@ -57,39 +57,10 @@ I'm an enthusiastic and driven Computer Science and Engineering student with a s
 
 ---
 
-### 📈 **GitHub Stats**
+### 🌟 **GitHub Stats**
 
-![Loveraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhimanlove&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
----
-
-### 🔥 **GitHub Streak**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhimanlove&theme=dark)
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/dhimanlove/dhimanlove/output/pacman-contribution-graph-dark.svg">
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/dhimanlove/dhimanlove/output/pacman-contribution-graph.svg">
-  <img 
-    alt="pacman contribution graph" 
-    src="https://raw.githubusercontent.com/dhimanlove/dhimanlove/output/pacman-contribution-graph.svg">
-</picture>
-
-### 🧑‍💻 **Hobbies and Interests**
-- Passionate about **open-source contributions**.
-- Constantly learning **new technologies**.
-- Avid fan of **AI/ML** and exploring **data science**.
-- Enjoy **reading tech blogs** and solving coding challenges.
-
----
-
-### 🌱 **Fun Fact**
-I believe in the motto: "The more you learn, the more you realize how much you don't know." 😄 Let's learn and grow together!
-
----
+![pacman-contributions (1)](https://github.com/user-attachments/assets/c125f111-49c9-489a-ace6-1960dfef1c34)
+<svg width="1166" height="184" xmlns="http://www.w3.org/2000/svg"><metadata>
+              
 
 Thanks for visiting my profile! Let's connect and collaborate! 🚀
