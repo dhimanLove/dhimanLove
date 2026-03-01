@@ -67,9 +67,17 @@ I'm an enthusiastic and driven Computer Science and Engineering student with a s
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhimanlove&theme=dark)
 
----
-<img src="https://pacman.abozanona.me?username=dhimanlove" />
----
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/dhimanlove/dhimanlove/output/pacman-contribution-graph-dark.svg">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/dhimanlove/dhimanlove/output/pacman-contribution-graph.svg">
+  <img 
+    alt="pacman contribution graph" 
+    src="https://raw.githubusercontent.com/dhimanlove/dhimanlove/output/pacman-contribution-graph.svg">
+</picture>
 
 ### 🧑‍💻 **Hobbies and Interests**
 - Passionate about **open-source contributions**.
